@@ -21,6 +21,11 @@
 
 해당 정보를 가공하여 docker내부에 있는 MySQL에 삽입하는 것을 목표로 진행
 
+## Team_Mate
+
+- https://github.com/hajinseok11
+- https://github.com/jaekim3220
+
 
 ## 담당 역할
 
